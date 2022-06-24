@@ -44,7 +44,6 @@
 }
 @media screen and (max-width: 900px) {
     body {
-      background-image: url('bg1.jpg');
-      background-size:auto;
+      background-size: auto;
     }
   }
